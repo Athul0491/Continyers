@@ -1,0 +1,1 @@
+This is a simplified container runtime built in Go, designed to help understand the basics of how containerization works. It can create and manage lightweight Linux containers by utilizing system calls and namespaces.
